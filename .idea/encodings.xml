@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/assets/contacts/index_1_0.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/contacts/index_1_1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/contacts/index_2_0.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/contacts/index_2_1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/contacts/sb.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/contacts/se.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets/contacts/top.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/android-support-v4.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-xhdpi/icon_send.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-xhdpi/list_item_background.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/txl_contacts_list_item.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ytf/mis/contacts/TreeElement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ytf/mis/contacts/TreeViewAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ytf/mis/contacts/UserBasicInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ytf/mis/contacts/UserContactsInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ytf/mis/contacts/UserDetailInfo.java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xenginev2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/xenginev2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

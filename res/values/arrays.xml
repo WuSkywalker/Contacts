@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="item_title">
+        <item>基本信息</item>
+        <item>联系方式</item>
+        <item>详细信息</item>
+    </string-array>
+
+    <integer-array name="item_icon_res">
+        <item>@drawable/txl_drawer_basic_info</item>
+        <item>@drawable/txl_drawer_contacts_info</item>
+        <item>@drawable/txl_drawer_detail_info</item>
+    </integer-array>
+
+</resources>
